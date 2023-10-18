@@ -1,2 +1,2 @@
 # landing-page
-<b>this repo creted by ousstheprogrammer<b>
+<b>this repo created by ousstheprogrammer<b>
